@@ -1,7 +1,7 @@
 
 def levitation_quiz
     loop do
-      puts
+      puts "W"
       answer = gets.chomp
       break if answer ==
     end
